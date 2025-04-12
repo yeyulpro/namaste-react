@@ -1,0 +1,29 @@
+{
+  "name": "pro-react",
+  "version": "1.0.0",
+  "description": "Thjis is ProYeyul React ",
+  "homepage": "https://github.com/yeyulpro/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/yeyulpro/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeyulpro/namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "Yeyul Choi",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
