@@ -14,7 +14,9 @@
   "author": "Yeyul Choi",
   "type": "commonjs",
   "scripts": {
-    "test": "jest"
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest" 
   },
   "devDependencies": {
     "parcel": "^2.14.4"
